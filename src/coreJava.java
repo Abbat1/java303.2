@@ -30,5 +30,6 @@ public class coreJava {
         double N = M / L;
         System.out.println(n);
         System.out.println(n);
+        //Comment
     }
 }
