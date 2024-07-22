@@ -19,9 +19,9 @@ package ScannerClass;
 
     //pt 2 of this assignment is below
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
-public class Solution {
+/*public class Solution {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -40,3 +40,4 @@ public class Solution {
     }
 }
 
+*/
