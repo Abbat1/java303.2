@@ -32,6 +32,4 @@ public class NioExample {
                     targetChannel.write(buf);
                 }
             }
-
-
         }}}
